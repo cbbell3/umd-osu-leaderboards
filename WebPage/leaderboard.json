@@ -10,6 +10,16 @@
     "top5AvgPP": 334.5
   },
   {
+    "profileId": 5881343,
+    "username": "fluey",
+    "globalRank": 0,
+    "hitAccuracy": 99.03,
+    "playTime": 1074,
+    "totalPP": 0,
+    "topPP": 475.3,
+    "top5AvgPP": 434.6
+  },
+  {
     "profileId": 6999957,
     "username": "Glitchy",
     "globalRank": 3660,
@@ -62,9 +72,9 @@
   {
     "profileId": 11069917,
     "username": "kayn heartsteel",
-    "globalRank": 13342,
+    "globalRank": 13345,
     "hitAccuracy": 98.93,
-    "playTime": 1654,
+    "playTime": 1655,
     "totalPP": 8763,
     "topPP": 505.6,
     "top5AvgPP": 462.9
@@ -108,6 +118,16 @@
     "totalPP": 5050,
     "topPP": 300.2,
     "top5AvgPP": 270.6
+  },
+  {
+    "profileId": 14566042,
+    "username": "HijiriS",
+    "globalRank": 17281,
+    "hitAccuracy": 99.27,
+    "playTime": 776,
+    "totalPP": 8260,
+    "topPP": 445.6,
+    "top5AvgPP": 426.9
   },
   {
     "profileId": 15369635,
@@ -182,9 +202,9 @@
   {
     "profileId": 35044231,
     "username": "HiratsukaMommy",
-    "globalRank": 64994,
+    "globalRank": 64999,
     "hitAccuracy": 93.67,
-    "playTime": 1423,
+    "playTime": 1424,
     "totalPP": 5777,
     "topPP": 311,
     "top5AvgPP": 300.3
