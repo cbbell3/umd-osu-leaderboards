@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 let players = [];
 let currentSortBy = 'globalRank';
 let ascending = true;
@@ -108,7 +107,7 @@ function sortAndDisplay() {
     });
 
     displayPlayers(players);
-=======
+
 let players = [];
 let currentSortBy = 'globalRank';
 let ascending = true;
@@ -218,5 +217,4 @@ function sortAndDisplay() {
     });
 
     displayPlayers(players);
->>>>>>> d54f6e5 (Move repo root above WebPage)
 }
