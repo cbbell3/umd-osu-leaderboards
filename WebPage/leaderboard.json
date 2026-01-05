@@ -20,9 +20,19 @@
     "top5AvgPP": 804.6
   },
   {
+    "profileId": 11305115,
+    "username": "TheBushy",
+    "globalRank": 29822,
+    "hitAccuracy": 98.69,
+    "playTime": 3164,
+    "totalPP": 7225,
+    "topPP": 386.3,
+    "top5AvgPP": 357.4
+  },
+  {
     "profileId": 12823063,
     "username": "timefast",
-    "globalRank": 13159,
+    "globalRank": 13161,
     "hitAccuracy": 97.14,
     "playTime": 863,
     "totalPP": 8784,
@@ -32,9 +42,9 @@
   {
     "profileId": 16238252,
     "username": "321angrybirds",
-    "globalRank": 5150,
+    "globalRank": 5151,
     "hitAccuracy": 98.75,
-    "playTime": 2420,
+    "playTime": 2421,
     "totalPP": 10545,
     "topPP": 618.5,
     "top5AvgPP": 575.3
