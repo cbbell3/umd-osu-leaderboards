@@ -48,5 +48,15 @@
     "totalPP": 10545,
     "topPP": 618.5,
     "top5AvgPP": 575.3
+  },
+  {
+    "profileId": 23736599,
+    "username": "Candysour",
+    "globalRank": 10280,
+    "hitAccuracy": 98.4,
+    "playTime": 1121,
+    "totalPP": 9272,
+    "topPP": 525.8,
+    "top5AvgPP": 493.1
   }
 ]
