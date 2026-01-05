@@ -1,0 +1,42 @@
+[
+  {
+    "profileId": 6999957,
+    "username": "Glitchy",
+    "globalRank": 3656,
+    "hitAccuracy": 96.5,
+    "playTime": 1046,
+    "totalPP": 11226,
+    "topPP": 618.3,
+    "top5AvgPP": 607.2
+  },
+  {
+    "profileId": 9508109,
+    "username": "onetabby",
+    "globalRank": 709,
+    "hitAccuracy": 98.57,
+    "playTime": 3430,
+    "totalPP": 14509,
+    "topPP": 882.4,
+    "top5AvgPP": 804.6
+  },
+  {
+    "profileId": 12823063,
+    "username": "timefast",
+    "globalRank": 13161,
+    "hitAccuracy": 97.14,
+    "playTime": 863,
+    "totalPP": 8784,
+    "topPP": 529.6,
+    "top5AvgPP": 512.2
+  },
+  {
+    "profileId": 16238252,
+    "username": "321angrybirds",
+    "globalRank": 5150,
+    "hitAccuracy": 98.75,
+    "playTime": 2420,
+    "totalPP": 10545,
+    "topPP": 618.5,
+    "top5AvgPP": 575.3
+  }
+]
