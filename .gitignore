@@ -1,0 +1,15 @@
+# Visual Studio files
+.vs/
+*.csproj.user
+*.slnx
+
+# Build folders
+bin/
+obj/
+
+# Sensitive data and local databases
+credentials.json
+leaderboard.db
+
+# Scripts you don't want on the web (optional)
+update-github.bat
