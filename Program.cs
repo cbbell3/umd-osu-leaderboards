@@ -209,5 +209,5 @@ while (true)
     System.Diagnostics.Process.Start("update-github.bat");
     Console.WriteLine("Done!");
 
-    Thread.Sleep(TimeSpan.FromMinutes(15));
+    Thread.Sleep(TimeSpan.FromMinutes(5));
 }
