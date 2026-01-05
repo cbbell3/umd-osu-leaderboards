@@ -119,7 +119,9 @@ while (true)
 
         string username = userData["username"].GetString();
         var statistics = userData["statistics"];
-        int globalRank = statistics.GetProperty("global_rank").GetInt32();
+        int? globalRank = statistics.TryGetProperty("global_rank", out JsonElement rankElement)
+            ? rankElement.GetInt32()
+            : (int?)null;
         int playTime = statistics.GetProperty("play_time").GetInt32() / 3600;
         int totalPP = (int)Math.Floor(statistics.GetProperty("pp").GetDouble());
         double hitAccuracy = Math.Round(statistics.GetProperty("hit_accuracy").GetDouble(), 2);
