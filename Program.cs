@@ -199,7 +199,6 @@ while (true)
 
     string json = JsonSerializer.Serialize(players, new JsonSerializerOptions { WriteIndented = true });
     File.WriteAllText("C:\\Users\\chees\\OneDrive\\Documents\\VS\\OsuLocalLeaderboards\\WebPage\\leaderboard.json", json);
-    Console.WriteLine(json);
 
     Console.WriteLine("Data exported successfully.");
 
@@ -207,7 +206,7 @@ while (true)
 
     Console.WriteLine("Pushing to GitHub...");
     System.Diagnostics.Process.Start("update-github.bat");
-    Console.WriteLine("Done!");
+    Console.WriteLine("Done!\n");
 
     Thread.Sleep(TimeSpan.FromMinutes(5));
 }
