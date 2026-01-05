@@ -80,6 +80,16 @@
     "top5AvgPP": 512.2
   },
   {
+    "profileId": 15369635,
+    "username": "Castiello",
+    "globalRank": 33962,
+    "hitAccuracy": 98.59,
+    "playTime": 811,
+    "totalPP": 6983,
+    "topPP": 368,
+    "top5AvgPP": 354.2
+  },
+  {
     "profileId": 16238252,
     "username": "321angrybirds",
     "globalRank": 5151,
@@ -98,6 +108,16 @@
     "totalPP": 6771,
     "topPP": 363.4,
     "top5AvgPP": 355.7
+  },
+  {
+    "profileId": 17978158,
+    "username": "petrichor",
+    "globalRank": 40137,
+    "hitAccuracy": 98.27,
+    "playTime": 737,
+    "totalPP": 6670,
+    "topPP": 344.7,
+    "top5AvgPP": 341.5
   },
   {
     "profileId": 23736599,
