@@ -81,7 +81,7 @@ function createPlayerCard(player, placement) {
             ${currentStatLabel}:&nbsp;
             <span class="stat-value">${
                 currentSortBy === 'globalRank' ?
-                    (player.globalRank !== null ? `#${player.globalRank.toLocaleString()}` : '--') :
+                    (player.globalRank !== 0 ? `#${player.globalRank.toLocaleString()}` : '--') :
                 currentSortBy === 'topPP' ? player.topPP.toLocaleString() :
                 currentSortBy === 'top5AvgPP' ? player.top5AvgPP :
                 currentSortBy === 'playTime' ? player.playTime.toLocaleString() : ''
@@ -100,9 +100,9 @@ function sortAndDisplay() {
         let valueA = a[currentSortBy];
         let valueB = b[currentSortBy];
 
-        if (valueA === null && valueB === null) return 0;
-        if (valueA === null) return 1;  // a goes after b
-        if (valueB === null) return -1; // b goes after a
+        if (valueA === 0 && valueB === 0) return 0;
+        if (valueA === 0) return 1;  // a goes after b
+        if (valueB === 0) return -1; // b goes after a
 
         if (ascending) {
             return valueA - valueB; //lowest to highest
