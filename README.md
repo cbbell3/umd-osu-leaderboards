@@ -2,13 +2,15 @@
 
 A full-stack web application that tracks and displays osu! player performance rankings with automated data synchronization.
 
-# Features
+## Features
 - **Automated Player Registration**: Collects player profiles via Google Forms
 - **Filterable Leaderboard**: Sort and filter rankings by multiple performance metrics
 - **Persistent Data Storage**: SQLite database maintains player statistics
 - **Multi-Platform Integration**: Seamlessly connects Google Forms, Sheets, and osu! API
 - **Public Access**: Hosted on Cloudflare with custom domain
 
-
-![Desktop Interface](Screenshots/Desktop.png)
-![Mobile Interface](Screenshots/Mobile.png)
+## Screenshots
+<p>
+  <img src="Screenshots/Mobile.png" alt="Main Leaderboard" width="180">
+  <img src="Screenshots/Desktop.png" alt="Player Stats" width="787">
+</p>
